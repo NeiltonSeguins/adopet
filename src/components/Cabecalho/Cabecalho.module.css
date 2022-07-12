@@ -1,0 +1,12 @@
+.forma1 {
+  position: absolute;
+}
+
+.nav {
+  position: relative;
+  left: 15%;
+  top: 40px;
+  width: 100px;
+  display: flex;
+  justify-content: space-between;
+}

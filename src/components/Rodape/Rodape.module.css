@@ -1,0 +1,15 @@
+.rodape {
+  position: absolute;
+  top: 95%;
+  width: 100%;
+  height: 104px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  background-color: #36d6ad;
+  text-align: center;
+}
+
+.rodape p {
+  margin: 0;
+  padding: 2.5rem 0 0 0;
+}

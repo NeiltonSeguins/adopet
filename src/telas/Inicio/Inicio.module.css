@@ -1,0 +1,55 @@
+.wrapper {
+  background-color: #3772ff;
+  height: 100vh;
+}
+
+.principal {
+  position: relative;
+  top: 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.forma2 {
+  position: absolute;
+  top: 5%;
+  right: 0px;
+}
+
+.conteudo {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.titulo {
+  font-family: "IBM Plex sans", sans-serif;
+  font-size: 26px;
+  line-height: 24px;
+  color: #fff;
+}
+
+.descricao {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  width: 248px;
+  color: #fff;
+}
+
+.botoes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imagem {
+  position: absolute;
+  left: 14%;
+  top: 120%;
+}
+
+
