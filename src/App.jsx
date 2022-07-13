@@ -1,12 +1,14 @@
-import "./App.css";
-import TelaInicio from "./telas/Inicio";
-import TelaCadastro from "./telas/Cadastro";
-import TelaLogin from "./telas/Login";
+import './App.css';
+import TelaInicio from './telas/Inicio';
+import TelaCadastro from './telas/Cadastro';
+import TelaLogin from './telas/Login';
+import TelaHome from './telas/Home';
 
 function App() {
   return (
     <>
-      <TelaInicio />
+      <TelaHome />
+      {/* <TelaInicio /> */}
       {/* <TelaCadastro /> */}
       {/* <TelaLogin /> */}
     </>
